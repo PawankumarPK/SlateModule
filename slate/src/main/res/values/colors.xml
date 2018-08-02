@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#840a1b</color>
+    <color name="colorPrimary">#A3081E</color>
+    <color name="colorAccent">#A3081E</color>
+    <color name="colorBackground">#f0f0f0</color>
+    <color name="chapterTextColor">#c9003f</color>
+    <color name="bar_bg">#5a000000</color>
+    <color name="answer_right">#4CAF50</color>
+    <color name="textColor">#636363</color>
+    <color name="colorRipple">#a0a3081e</color>
+</resources>
